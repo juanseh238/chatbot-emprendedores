@@ -1,0 +1,8 @@
+gradio
+openai
+langchain
+chromadb
+tiktoken
+pypdf
+pymupdf
+llama-cpp-python
